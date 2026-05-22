@@ -1,3 +1,6 @@
+## Why PhotoMeta Restorer?
+Most Google Takeout metadata fixers are either paid, limited to 100 photos, or require complex command-line arguments. **PhotoMeta Restorer** bridges this gap by providing a completely free, high-performance, and secure graphical user interface (GUI) to repair your Google Photos library instantly.
+
 # 📸 PhotoMeta Restorer
 
 > Restore lost dates, GPS locations, and timestamps from your Google Photos Takeout export — automatically.
