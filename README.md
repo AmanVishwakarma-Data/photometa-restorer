@@ -26,6 +26,9 @@ When you download your photos from Google Takeout, all the metadata (dates, GPS 
 | **Year Distribution** | Visual chart showing how many photos you have per year |
 
 ---
+## Screenshot
+<img width="1920" height="1080" alt="Screenshot 2026-05-27 202239" src="https://github.com/user-attachments/assets/cf367bbc-0f6a-4042-923e-5fbbd562732d" />
+---
 
 ## 🗂️ Project Structure
 
